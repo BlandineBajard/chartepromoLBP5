@@ -3,8 +3,7 @@ body{
 }
 
 ul {
-  list-style: circle inside;
-  list-style-image: url(bullet.png);  }
+  list-style: circle inside;  }
 ol {
   list-style: decimal inside; }
 ol, ul {
