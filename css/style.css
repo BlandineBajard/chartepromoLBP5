@@ -55,7 +55,8 @@ header {
   box-sizing: border-box; }
   
 .accordeon{
-    width: 90%;
+    margin : 0 auto;
+    width: 100%;
     max-width: 1000px;
 }
 .accordeon_item{
